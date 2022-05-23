@@ -1,0 +1,30 @@
+/Users/diab/Desktop/Studies COMP3259 PPL/Final Project/code/src/Tokens.x:
+  hash: f3f1c9e4ed291ee84083296fb0440f805f5b52dcc9dc0a2d6f5251d2efc6a72e
+/Users/diab/.stack/programs/x86_64-osx/ghc-8.10.7/lib/ghc-8.10.7/include/ghcplatform.h:
+  hash: 3a861763ef18f378668d08c2d58d28ed22ad489a7c0c723bf756b972ad9ab0ea
+/Users/diab/.stack/programs/x86_64-osx/ghc-8.10.7/lib/ghc-8.10.7/include/ghcconfig.h:
+  hash: 03f4611ae97decc9e8c76c212bf7886d003b29d5c62b43fee6623a799f6e5fdf
+? /Users/diab/Desktop/Studies COMP3259 PPL/Final Project/code/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/autogen/Paths_project.hs
+: hash: 00a041c0c3198e3e77a0ed9a9adb39d50b57e281f7b8a02e501e057f57edde4b
+/Users/diab/Desktop/Studies COMP3259 PPL/Final Project/code/src/Sigma.hs:
+  hash: 646c472534d500ac9eb7140ebca1ab1ce01264f2da3e6a0a96c7788558580b9d
+/Users/diab/Desktop/Studies COMP3259 PPL/Final Project/code/src/Interp.hs:
+  hash: d87dd44ecfa9601da7c60ff4b1f69cb23a6a118c5e48a3f2ff42798bb5b7cab2
+/Users/diab/.stack/programs/x86_64-osx/ghc-8.10.7/lib/ghc-8.10.7/include/ghcautoconf.h:
+  hash: adcdb43d859e516bf71ef2acb91c517b7b4712edadc083150a61db2af0704196
+/Users/diab/Desktop/Studies COMP3259 PPL/Final Project/code/src/Source.hs:
+  hash: 8028e095bb0ede30b886a558abcd3c83050ee743f6b2f1cceffa100498305be0
+/Users/diab/Desktop/Studies COMP3259 PPL/Final Project/code/src/Common.hs:
+  hash: 8a7db99b50c44e54afbb9ec7ae7dbded5eea3bd5b3a61a65327cb046bd2a483e
+/Users/diab/.stack/programs/x86_64-osx/ghc-8.10.7/lib/ghc-8.10.7/include/ghcversion.h:
+  hash: c013160c9aa8a98f4638616496dce720c23ceca8ef9d6b3212b654642fbda5e4
+/Users/diab/Desktop/Studies COMP3259 PPL/Final Project/code/project.cabal:
+  hash: 9c7eb260a30bf315a2993d425b79369a1521b307dab60289566fb15020f222f8
+/Users/diab/Desktop/Studies COMP3259 PPL/Final Project/code/src/Translate.hs:
+  hash: c14475adc2fb310f21f9ed8dcbd99d1a210c07fecbf70a2ee900e0fd6f6334f7
+? /Users/diab/Desktop/Studies COMP3259 PPL/Final Project/code/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/autogen/cabal_macros.h
+: hash: bf44b5c054a2158d9c6d792fadd735cee11a1e42d9da44f3e0e887c04acaa2fb
+/Users/diab/Desktop/Studies COMP3259 PPL/Final Project/code/package.yaml:
+  hash: 79b0e630b7fa32b1e5c4754d0e717967b42ca815e95bb4e3a0fc9ddff879ffdc
+/Users/diab/Desktop/Studies COMP3259 PPL/Final Project/code/src/Parser.y:
+  hash: c13235cba46f24074f7224e387ae0bb7a89a631f9cc207991c0b0230b3e91181
